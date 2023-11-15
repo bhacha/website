@@ -1,0 +1,16 @@
+languageCode = 'en-us'
+title = 'title'
+theme = 'mainroad'
+[Author]
+name = "blank"
+bio = "This is a website for testing"
+
+[Params]
+	description = "Brandon's website"
+	copyright = "Brandon G. Hacha"
+	toc = false
+	pager = true
+	mainSections = ["about", "literature", "blog"]
+
+
+
