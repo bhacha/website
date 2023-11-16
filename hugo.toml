@@ -12,5 +12,10 @@ bio = "This is a website for testing"
 	pager = true
 	mainSections = ["about", "literature", "blog"]
 
-
-
+	
+[Params.sidebar]
+	# home = "right"   # Configure layout for home page
+  	# list = "right"   # Configure layout for list pages
+ 	# single = "right" # Configure layout for single pages
+  	# Enable widgets in given order
+  	widgets = ["affiliations"]

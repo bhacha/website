@@ -1,5 +1,20 @@
 ---
-title: "Brandon G. Hacha"
+title: "Test"
+url: /about/
+sidebar: "right"
+menu:
+    main:
+        name: About me
+        weight: 1
+affiliations:
+  - name: University of Wisconsin-Madison
+    url: https://chem.wisc.edu/
+  - name: Goldsmith Group at UW-Madison
+    url: https://goldsmith.chem.wisc.edu/current-group-members/
+  - name: Center for Molecular Quantum Transduction
+    url: https://isen.northwestern.edu/cmqt
+
+
 ---
 
-My name is Brandon, and I'm currently a graduate student at the University of Wisconsin-Madison. I am a member of the Department of Chemistry, but my research focuses on the additive manufacturing of photonic and phononic crystals. This work spans the fields of chemistry, physics, and engineering.
+Test information??
