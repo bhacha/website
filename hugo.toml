@@ -1,5 +1,5 @@
 languageCode = 'en-us'
-title = "Brandon Hacha's Website"
+title = "Brandon Hacha"
 theme= ["hugo-cloak-email", "mainroad"]
 
 [Author]
