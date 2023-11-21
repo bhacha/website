@@ -51,8 +51,3 @@ I anticipate graduating in early-to-mid 2025 and am always on the lookout for po
 
 
 
-Testing some inline math
-
-$$ \mu $$
-
-

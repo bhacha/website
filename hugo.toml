@@ -1,6 +1,7 @@
 languageCode = 'en-us'
 title = "Brandon Hacha's Website"
 theme= ["hugo-cloak-email", "mainroad"]
+
 [Author]
 name = "blank"
 bio = "This is a website for testing"
@@ -20,5 +21,3 @@ bio = "This is a website for testing"
   	# Enable widgets in given order
   	widgets = ["affiliations"]
 
-Params.assets.disableFingerprinting = true
-Params.layouts.disableFingerprinting = true
