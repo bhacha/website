@@ -3,8 +3,8 @@ title = "Brandon Hacha"
 theme= ["hugo-cloak-email", "mainroad"]
 
 [Author]
-name = "blank"
-bio = "This is a website for testing"
+name = "Brandon G. Hacha"
+bio = "This website is still under construction!"
 
 [Params]
 	description = "Brandon's website"

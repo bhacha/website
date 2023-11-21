@@ -19,7 +19,7 @@ math: true
 
 ![Image](/images/avatar.jpg)
 
-Hi! My name is Brandon Hacha (*HACK-uh*, like how I imagine Matt Damon in *Good Will Hunting* would say "hacker"). 
+Hi!  My name is Brandon Hacha (*HACK-uh* like how I imagine "hacker" would sound from someone with a thick Boston accent, such as Matt Damon in *Good Will Hunting*). 
 
 I am a Ph.D. candidate in analytical chemistry, as a member of [Randall Goldsmith's group]({{<ref "https://www.goldsmith.chem.wisc.edu" >}}) at the University of Wisconsin-Madison. Despite my formal training in analytical chemistry, my research is much better described as a combination of physics and engineering. Currently, I am working to fabricate topological photonic crystals using additive manufacturing techniques.
 
