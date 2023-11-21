@@ -19,3 +19,6 @@ bio = "This is a website for testing"
  	# single = "right" # Configure layout for single pages
   	# Enable widgets in given order
   	widgets = ["affiliations"]
+
+Params.assets.disableFingerprinting = true
+Params.layouts.disableFingerprinting = true
