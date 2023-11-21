@@ -1,2 +1,4 @@
 [context.production.environment]
   HUGO_VERSION = "0.120.4"
+
+"https://cdn.jsdelivr.net"
