@@ -1,6 +1,6 @@
 languageCode = 'en-us'
 title = 'title'
-theme = 'mainroad'
+theme = ['hugo-cloak-email', 'mainroad']
 [Author]
 name = "blank"
 bio = "This is a website for testing"
@@ -9,7 +9,7 @@ bio = "This is a website for testing"
 	description = "Brandon's website"
 	copyright = "Brandon G. Hacha"
 	toc = false
-	pager = true
+	pager = false
 	mainSections = ["about", "literature", "blog"]
 
 	
