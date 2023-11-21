@@ -1,6 +1,6 @@
 languageCode = 'en-us'
 title = "Brandon Hacha's Website"
-theme = ['hugo-cloak-email', 'mainroad']
+theme= ["hugo-cloak-email", "mainroad"]
 [Author]
 name = "blank"
 bio = "This is a website for testing"
