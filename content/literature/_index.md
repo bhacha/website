@@ -5,7 +5,5 @@ menu:
         name: "Literature Digest"
         weight: 3
 
-draft: true
+draft: false
 ---
-
-Here are some papers I've read and felt like sharing!
