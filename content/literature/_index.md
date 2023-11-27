@@ -5,5 +5,4 @@ menu:
         name: "Literature Digest"
         weight: 3
 
-draft: false
 ---
