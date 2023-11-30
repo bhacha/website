@@ -1,6 +1,6 @@
 languageCode = 'en-us'
 title = "Brandon Hacha"
-theme= ["hugo-cloak-email", "mainroad"]
+theme= ["hugo-cloak-email", "mainroad-hacha"]
 
 [Author]
 name = "Brandon G. Hacha"
