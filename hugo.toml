@@ -1,0 +1,23 @@
+languageCode = 'en-us'
+title = "Brandon Hacha"
+theme= ["hugo-cloak-email", "mainroad-hacha"]
+
+[Author]
+name = "Brandon G. Hacha"
+bio = "This website is still under construction!"
+
+[Params]
+	description = "Brandon's website"
+	copyright = "Brandon G. Hacha"
+	toc = false
+	pager = false
+	mainSections = ["about", "literature", "blog"]
+
+	
+[Params.sidebar]
+	# home = "right"   # Configure layout for home page
+  	# list = "right"   # Configure layout for list pages
+ 	# single = "right" # Configure layout for single pages
+  	# Enable widgets in given order
+  	widgets = ["affiliations"]
+

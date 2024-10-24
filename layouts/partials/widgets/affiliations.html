@@ -1,0 +1,15 @@
+{{ if .Params.affiliations }}
+<div class="widget-sidemenu widget">
+	<h4 class="widget__title">{{ T "affiliationmenu_title" }}</h4>
+	<nav class="widget__content">
+		<ul class="widget__list">
+		{{ range .Params.affiliations }}
+			<li class="widget__item">
+				<a class="widget__link" href="{{ .url }}">{{ .name }}</a>
+			</li>
+		{{ end }}
+		</ul>
+	</nav>
+</div>
+{{ end }}
+

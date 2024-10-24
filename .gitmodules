@@ -1,0 +1,7 @@
+[submodule "themes/hugo-cloak-email"]
+	path = themes/hugo-cloak-email
+	url = https://github.com/martignoni/hugo-cloak-email.git
+
+[submodule "themes/mainroad-hacha"]
+	path = themes/mainroad-hacha
+	url = https://github.com/bhacha/Mainroad-hacha.git
