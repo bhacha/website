@@ -8,6 +8,4 @@ menu:
 draft: True
 ---
 
-These are documents that I've obtained via public records requests.
-
-
+These are documents that I've obtained via public records requests. Please click the headings to see embedded PDFs or links to download files.
