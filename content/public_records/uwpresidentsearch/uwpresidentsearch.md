@@ -1,7 +1,7 @@
 ---
 title: "Public Comments on UW System's 2020 Failed President Search "
 math: true
-draft: true
+draft: false
 ---
 
 In 2020, the University of Wisconsin System conducted a search for its new President. This was a process mired in controversy and ended up failing after the only finalist for the position, University of Alaska President Jim Johnsen, dropped out. Differing from previous searches, this one involved significantly less involvement by students and faculty. This, combined with there being only one finalist (with a troubling history of austerity measures), essentially doomed the search. [Insider Higher Ed has the story.](https://www.insidehighered.com/quicktakes/2020/06/15/sole-finalist-withdraws-wisconsin-presidential-search)

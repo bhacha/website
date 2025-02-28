@@ -5,6 +5,5 @@ menu:
     main:
         name: Personal Blog
         weight: 4
-draft: true
+draft: false
 ---
-this is my personal blog

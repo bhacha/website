@@ -1,7 +1,7 @@
 ---
 title: "NASA's Satirical Response to xkcd"
 math: true
-draft: true
+draft: false
 description: "NASA sent a tongue-in-cheek proposal response to an XKCD comic"
 ---
 
