@@ -5,3 +5,6 @@
 [submodule "themes/mainroad-hacha"]
 	path = themes/mainroad-hacha
 	url = https://github.com/bhacha/Mainroad-hacha.git
+[submodule "themes/hacha-embed-pdf-shortcode"]
+	path = themes/hacha-embed-pdf-shortcode
+	url = https://github.com/bhacha/hugo-embed-pdf-shortcode.git

@@ -1,6 +1,7 @@
 languageCode = 'en-us'
 title = "Brandon Hacha"
-theme= ["hugo-cloak-email", "mainroad-hacha"]
+theme= ["hugo-cloak-email", "hacha-embed-pdf-shortcode", "mainroad-hacha"]
+enableInlineShortcodes = true
 
 [Author]
 name = "Brandon G. Hacha"
