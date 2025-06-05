@@ -45,4 +45,4 @@ And some of the other areas I consider myself to be exceptionally knowledgeable 
 - Electroless deposition of metals
 
 
-I anticipate graduating in early-to-mid 2025 and am always on the lookout for post-doctoral research positions. If you're also looking that far ahead and like what you see here, please send me some information via email at {{< cloakemail "brandon.hacha@wisc.edu" >}}!
+I anticipate graduating in mid-to-late 2025 and am always on the lookout for post-doctoral research positions. If you're also looking that far ahead and like what you see here, please send me some information via email at {{< cloakemail "brandon.hacha@wisc.edu" >}}!
