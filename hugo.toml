@@ -5,14 +5,14 @@ enableInlineShortcodes = true
 
 [Author]
 name = "Brandon G. Hacha"
-bio = "This website is still under construction!"
+bio = "This is Brandon Hacha's website!"
 
 [Params]
 	description = "Brandon's website"
 	copyright = "Brandon G. Hacha"
 	toc = false
 	pager = false
-	mainSections = ["about", "literature", "blog"]
+	mainSections = ["about", "literature", "blog", "public_records"]
 
 	
 [Params.sidebar]
