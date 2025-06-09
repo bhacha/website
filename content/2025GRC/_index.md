@@ -1,6 +1,6 @@
 ---
-title: 'Poster Info'
+title: 'GRC 2025 Poster Info'
 math: true
 draft: false
 ---
-Hey, this poster hasn't been shared yet!
+{{< embed-pdf url="../2025-GRCPoster-Hacha.pdf" >}}
